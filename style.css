@@ -4,7 +4,7 @@ body {
 }
 header {
   background-color:#e5340e;
-  color: white;
+  color: light blue;
   padding: 1rem;
   text-align: center;
 }
@@ -100,7 +100,7 @@ main {
   color:#e5340e;
 }
 .error {
-  color: red;
+  color:green;
   font-size: 0.85rem;
   margin-top: 0.3rem;
 }
